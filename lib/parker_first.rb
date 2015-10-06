@@ -1,4 +1,5 @@
 require "parker_first/version"
+require "parker_first/greeting"
 
 module ParkerFirst
   
