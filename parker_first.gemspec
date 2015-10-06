@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Practicing creating a gem.}
   spec.description   = %q{Practicing creating a gem for practice.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/bondparkerbond/firstGem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
